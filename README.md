@@ -1,1 +1,1 @@
-deploy link: https://mnasir-khan.github.io/mini-calendar/
+deploy link: https://mnasir-khan.github.io/Mini-Calendar/
